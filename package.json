@@ -1,0 +1,23 @@
+{
+  "name": "curintia-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusthavoaguiar/curintia-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusthavoaguiar/curintia-api/issues"
+  },
+  "homepage": "https://github.com/gusthavoaguiar/curintia-api#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
